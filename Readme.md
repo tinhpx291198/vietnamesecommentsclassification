@@ -5,4 +5,4 @@ Nhãn: CLEAN, OFFENSIVE và HATE
 
 Code được viết bằng python với Jupyter notebook. Nó dễ dàng chạy bằng Jupyter notebook hoặc Google colab.
 
-Code gồm: GRU và PhoBERT transformer. 
+Code gồm: LSTM và PhoBERT transformer. 
